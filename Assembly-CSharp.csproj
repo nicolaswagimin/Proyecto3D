@@ -65,6 +65,7 @@
     <Compile Include="Assets/JMO Assets/WarFX/Scripts/CFX_LightIntensityFade.cs" />
     <Compile Include="Assets/JMO Assets/WarFX/Spawn System/CFX_SpawnSystem.cs" />
     <Compile Include="Assets/Scripts/MouseLook.cs" />
+    <Compile Include="Assets/Scripts/PlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/JMO Assets/WarFX/Shaders/WFX_S Particle Add A8.shader" />
